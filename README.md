@@ -16,7 +16,7 @@ This project is a clone of Duolingo, built using modern web technologies. It fea
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/RikhiSingh/Duolingo-Clone.git
+   git clone https://github.com/Ursulaonyi/Duolingo--Clone.git
    cd Duolingo-Clone
    
 2. **Install Dependencies**
@@ -30,9 +30,8 @@ This project is a clone of Duolingo, built using modern web technologies. It fea
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY 
    CLERK_SECRET_KEY 
    DATABASE_URL
-   STRIPE_API_KEY
    NEXT_PUBLIC_APP_URL
-   STRIPE_WEBHOOK_SECRET
+   
 
 4. **Run the development server**
    ```bash
